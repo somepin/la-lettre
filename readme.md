@@ -10,7 +10,7 @@ Another unibody split 35% 3d printed handwired mechanical keyboard. A row stagge
 
 The `split` and `nonsplit` folders have STLs for printing and STEPs for modification. Note the `nonsplit` case is untested. The Fusion 360 timeline is also included, and component color cycling can be toggled (Shift+N).
 
-## Materials
+## Components
 
 | Part                        | Quantity                  |
 | --------------------------- | ------------------------- |
@@ -33,7 +33,7 @@ If printing the `split` case, each divided piece is held together with super glu
 
 ## Firmware & Wiring
 
-QMK Firmware files are included as a starting point, but [compile and flash](https://docs.qmk.fm/#/newbs_building_firmware) the firmware based on your matrix and keymap preferences.
+QMK Firmware files are included as a starting point, but compile and flash the firmware based on your matrix and keymap preferences.
 
 ### Wiring/Matrix Diagram
 
